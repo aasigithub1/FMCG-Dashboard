@@ -1,6 +1,6 @@
 # AtliQ Mart FMCG Supply Chain Analysis
 
-![Project Banner](images/banner.png)
+![Project Banner](fmcg-fast-moving-consumer-goods-acronym-quickly-vector-29140672.jpg)
 
 This repository contains the project files for the supply chain analysis conducted for AtliQ Mart, an FMCG manufacturer in Gujarat, India. The goal of the project was to generate insights and solve service issues to support the company's expansion plans.
 
