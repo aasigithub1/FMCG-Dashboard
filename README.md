@@ -1,6 +1,6 @@
 # AtliQ Mart FMCG Supply Chain Analysis
 
-![Project Banner](fmcg-fast-moving-consumer-goods-acronym-quickly-vector-29140672.jpg)
+<img src="fmcg-fast-moving-consumer-goods-acronym-quickly-vector-29140672.jpg" alt="Project Banner" width="1000" height="400">
 
 This repository contains the project files for the supply chain analysis conducted for AtliQ Mart, an FMCG manufacturer in Gujarat, India. The goal of the project was to generate insights and solve service issues to support the company's expansion plans.
 
@@ -26,7 +26,7 @@ AtliQ Mart is addressing service issues before expanding to new cities.
 
 ## Situation
 
-![Situation](business-concept-meaning-situational-analysis-phrase-sheet-219329192.webp)
+<img src="business-concept-meaning-situational-analysis-phrase-sheet-219329192.webp" alt="Project Banner" width="1000" height="200">
 
 -  AtliQ Mart, a growing FMCG manufacturer, is headquartered in Gujarat, India, and currently operates in Surat, Ahmedabad, and Vadodara.
 -  The company plans to expand to other metros/Tier 1 cities within the next two years.
@@ -35,7 +35,8 @@ AtliQ Mart is addressing service issues before expanding to new cities.
 
 ## Task
 
-![Task](to-do-list.jpg.webp)
+<img src="to-do-list.jpg.webp" alt="Project Banner" width="1000" height="200">
+
 
 - **Role**: Peter Pandey, a new data analyst in the supply chain team.
 - **Objective**: Track delivery performance metrics daily and create metrics including 'On-time delivery (OT) %,' 'In-full delivery (IF) %,' and 'On-Time In-Full (OTIF) %' against set targets for each customer.
@@ -43,7 +44,7 @@ AtliQ Mart is addressing service issues before expanding to new cities.
 
 ## Action
 
-![Action](PAC4-2.jpg)
+<img src="PAC4-2.jpg" alt="Project Banner" width="1000" height="200">
 
 1. **Data Collection**: Gathered data on delivery performance, including timestamps for order placement and delivery.
 2. **Metrics Calculation**:
@@ -54,15 +55,13 @@ AtliQ Mart is addressing service issues before expanding to new cities.
 
 ## Data Modeling
 
-![Data Modeling](Screenshot(32).png)
+![Data Modeling](Screenshot.png)
 
 - **Unified View**: Provides a unified view of data from multiple sources, enhancing analysis and decision-making.
 - **Efficiency**: Improves efficiency by optimizing query performance, ensuring faster data processing and visualization.
 - **Data Integrity**: Ensures data integrity and consistency, fostering trust in the insights derived from Power BI reports.
 
 ## Dashboard
-
-![Dashboard](click-here-button-hand-icon-isolated-white-background-click-here-button-hand-icon-135876601.webp)
 
 The dashboard is designed in Power BI and includes the following features:
 - Monitoring trends over time
@@ -73,7 +72,7 @@ The dashboard is designed in Power BI and includes the following features:
 
 ## Results
 
-![Results](gold-2.jpg)
+<img src="gold-2.jpg" alt="Project Banner" width="1000" height="200">
 
 - **Key Metrics**: OT%, IF%, OTIF% consistently fall below their targets in recent months.
 - **LIFR% and VOFR%**: Remain relatively stable, indicating consistent performance in these areas.
