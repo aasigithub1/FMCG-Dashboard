@@ -23,7 +23,6 @@ Fast Moving Consumer Goods (FMCG) refer to products that are sold quickly at rel
 
 AtliQ Mart is addressing service issues before expanding to new cities.
 
-![FMCG Products](images/fmcg_products.png)
 
 ## Situation
 
@@ -55,7 +54,7 @@ AtliQ Mart is addressing service issues before expanding to new cities.
 
 ## Data Modeling
 
-![Data Modeling](images/data_modeling.png)
+![Data Modeling](Screenshot (32).png)
 
 - **Unified View**: Provides a unified view of data from multiple sources, enhancing analysis and decision-making.
 - **Efficiency**: Improves efficiency by optimizing query performance, ensuring faster data processing and visualization.
@@ -63,7 +62,7 @@ AtliQ Mart is addressing service issues before expanding to new cities.
 
 ## Dashboard
 
-![Dashboard](Screenshot (32).png)
+![Dashboard](click-here-button-hand-icon-isolated-white-background-click-here-button-hand-icon-135876601.webp)
 
 The dashboard is designed in Power BI and includes the following features:
 - Monitoring trends over time
