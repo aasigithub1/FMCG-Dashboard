@@ -54,7 +54,7 @@ AtliQ Mart is addressing service issues before expanding to new cities.
 
 ## Data Modeling
 
-![Data Modeling](Screenshot (32).png)
+![Data Modeling](Screenshot(32).png)
 
 - **Unified View**: Provides a unified view of data from multiple sources, enhancing analysis and decision-making.
 - **Efficiency**: Improves efficiency by optimizing query performance, ensuring faster data processing and visualization.
