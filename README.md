@@ -29,8 +29,10 @@ AtliQ Mart is addressing service issues before expanding to new cities.
 
 ![Situation](business-concept-meaning-situational-analysis-phrase-sheet-219329192.webp)
 
-- **Company Background**: AtliQ Mart operates in Surat, Ahmedabad, and Vadodara, and plans to expand to other metros/Tier 1 cities within the next two years.
-- **Service Issues**: Some key customers have not renewed their annual contracts due to service issues, suspected to be caused by late or incomplete deliveries of essential products.
+• AtliQ Mart, a growing FMCG manufacturer, is headquartered in Gujarat, India, and currently operates in Surat, Ahmedabad, and Vadodara.
+• The company plans to expand to other metros/Tier 1 cities within the next two years.
+• However, AtliQ Mart is facing challenges as some key customers have not renewed their annual contracts due to service issues.
+• Management suspects that late or incomplete deliveries of essential products have led to poor customer service
 
 ## Task
 
