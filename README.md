@@ -29,14 +29,14 @@ AtliQ Mart is addressing service issues before expanding to new cities.
 
 ![Situation](business-concept-meaning-situational-analysis-phrase-sheet-219329192.webp)
 
-- • AtliQ Mart, a growing FMCG manufacturer, is headquartered in Gujarat, India, and currently operates in Surat, Ahmedabad, and Vadodara.
-- • The company plans to expand to other metros/Tier 1 cities within the next two years.
-- • However, AtliQ Mart is facing challenges as some key customers have not renewed their annual contracts due to service issues.
-- • Management suspects that late or incomplete deliveries of essential products have led to poor customer service
+-  AtliQ Mart, a growing FMCG manufacturer, is headquartered in Gujarat, India, and currently operates in Surat, Ahmedabad, and Vadodara.
+-  The company plans to expand to other metros/Tier 1 cities within the next two years.
+-  However, AtliQ Mart is facing challenges as some key customers have not renewed their annual contracts due to service issues.
+-  Management suspects that late or incomplete deliveries of essential products have led to poor customer service
 
 ## Task
 
-![Task](images/task.png)
+![Task](to-do-list.jpg.webp)
 
 - **Role**: Peter Pandey, a new data analyst in the supply chain team.
 - **Objective**: Track delivery performance metrics daily and create metrics including 'On-time delivery (OT) %,' 'In-full delivery (IF) %,' and 'On-Time In-Full (OTIF) %' against set targets for each customer.
@@ -44,7 +44,7 @@ AtliQ Mart is addressing service issues before expanding to new cities.
 
 ## Action
 
-![Action](images/action.png)
+![Action](PAC4-2.jpg)
 
 1. **Data Collection**: Gathered data on delivery performance, including timestamps for order placement and delivery.
 2. **Metrics Calculation**:
@@ -63,7 +63,7 @@ AtliQ Mart is addressing service issues before expanding to new cities.
 
 ## Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](Screenshot (32).png)
 
 The dashboard is designed in Power BI and includes the following features:
 - Monitoring trends over time
@@ -74,7 +74,7 @@ The dashboard is designed in Power BI and includes the following features:
 
 ## Results
 
-![Results](images/results.png)
+![Results](gold-2.jpg)
 
 - **Key Metrics**: OT%, IF%, OTIF% consistently fall below their targets in recent months.
 - **LIFR% and VOFR%**: Remain relatively stable, indicating consistent performance in these areas.
@@ -83,13 +83,7 @@ The dashboard is designed in Power BI and includes the following features:
 - **Improvement**: Despite efforts, no observable improvement in key metrics recently.
 - **Outlier**: AM Milk Product stands out with both the highest order volume and the highest delay time.
 
-## Usage
 
-To use this project, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/yourusername/atliq-mart-fmcg-analysis.git`
-2. Open the project in your preferred IDE.
-3. Follow the instructions in the `dashboard` directory to set up Power BI and load the data.
 
 ## Contributing
 
